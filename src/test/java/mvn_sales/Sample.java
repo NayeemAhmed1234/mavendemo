@@ -9,5 +9,11 @@ public class Sample {
 	{
 		System.out.println("deleted successfully");
 	}
+	@Test(groups="smoke")
+	public void delete()
+	{
+		System.out.println("deleted successfully");
+	}
+	
 
 }
