@@ -14,5 +14,9 @@ public class SampleTest {
 	{
 		System.out.println("modified regression");
 	}
+	@Test
+	public void nayeem() {
+		System.out.println("love from india");
+	}
 
 }
